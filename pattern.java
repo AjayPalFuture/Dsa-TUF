@@ -111,7 +111,7 @@ public class pattern{
 
 
 
-            // PTTERN FIRST
+            // PTTERN SEVEN
     public static void patternSeven(){
         int i,j;
         Scanner input=new Scanner(System.in);
@@ -137,7 +137,7 @@ public class pattern{
 
 
 
-                // PTTERN FIRST
+                // PTTERN EIGHT
                 public static void patternEight(){
                     int i,j;
                     Scanner input=new Scanner(System.in);
@@ -161,7 +161,7 @@ public class pattern{
     
 
     
-            // PTTERN FIRST
+            // PTTERN NINE
             public static void patternNine(){
                 int i,j;
                 Scanner input=new Scanner(System.in);
@@ -237,7 +237,7 @@ public class pattern{
         // patternSeven();
         // patternEight();
         // patternNine();
-        patternTen();
+      //  patternTen();
     }
 
 }
